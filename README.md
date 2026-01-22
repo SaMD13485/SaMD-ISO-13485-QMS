@@ -1,6 +1,6 @@
 # SaMD-ISO-13485-QMS
 This is a quality management system, compliant with ISO 13485:2016, that was written specifically for software as a medical device (SaMD) companies.
-##1.0 Scope
+## 1.0 Scope
 This International Standard specifies requirements for a quality management system where an
 organization needs to demonstrate its ability to provide medical devices and related services that
 consistently meet customer and applicable regulatory requirements. Such organizations can be involved
