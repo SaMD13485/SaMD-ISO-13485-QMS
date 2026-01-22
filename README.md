@@ -9,19 +9,23 @@ distribution, installation, or servicing of a medical device and design and deve
 associated activities (e.g. technical support). This International Standard can also be used by suppliers
 or external parties that provide product, including quality management system-related services to such
 organizations.
+
 Requirements of this International Standard are applicable to organizations regardless of their size
 and regardless of their type except where explicitly stated. Wherever requirements are specified as
 applying to medical devices, the requirements apply equally to associated services as supplied by the
 organization.
+
 The processes required by this International Standard that are applicable to the organization, but
 are not performed by the organization, are the responsibility of the organization and are accounted
 for in the organization’s quality management system by monitoring, maintaining, and controlling the
 processes.
+
 If applicable regulatory requirements permit exclusions of design and development controls, this can
 be used as a justification for their exclusion from the quality management system. These regulatory
 requirements can provide alternative approaches that are to be addressed in the quality management
 system. It is the responsibility of the organization to ensure that claims of conformity to this
 International Standard reflect any exclusion of design and development controls.
+
 If any requirement in Clauses 6, 7 or 8 of this International Standard is not applicable due to the
 activities undertaken by the organization or the nature of the medical device for which the quality
 management system is applied, the organization does not need to include such a requirement in its
